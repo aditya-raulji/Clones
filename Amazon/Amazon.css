@@ -1,0 +1,207 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+html,
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(227, 230, 230);
+}
+
+.header {
+
+    background-color: rgb(19, 25, 33);
+    width: 100vw;
+    height: 4.2rem;
+}
+
+.img-header img {
+    padding: 0.3vw;
+    width: 7vw;
+    margin-top: 0.5rem;
+}
+
+.location img {
+    width: 1.5rem;
+    background-color: rgb(19, 25, 33);
+}
+
+.location {
+    margin: -42px 120px;
+    display: flex;
+}
+
+.location p {
+    color: rgb(255, 255, 255);
+    font-size: small;
+
+}
+
+.search {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rebeccapurple;
+    width: 44vw;
+    height: 2.3rem;
+    margin-left: 19rem;
+    margin-top: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.src-icone {
+    background-color: rgb(254, 189, 105);
+    height: 2.3rem;
+    width: 2.3rem;
+    margin-left: 40rem;
+    border-radius: 0.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.india {
+    display: flex;
+}
+
+.text1 {
+    display: flex;
+}
+
+.text1 p {
+    font-size: smaller;
+}
+
+.text2 p {
+    font-size: smaller;
+
+}
+
+.cart-icon img {
+    width: 2.4vw;
+    height: 3.4vh;
+}
+
+.cart {
+    display: flex;
+}
+
+.left {
+    display: flex;
+    padding: 0.5rem;
+    gap: 3rem;
+    justify-content: end;
+    color: rgb(255, 255, 255);
+    margin: -42px 1px;
+    font-weight: normal;
+}
+
+.menubar {
+    background-color: rgb(35, 47, 62);
+    width: 100vw;
+    height: 5.3vh;
+}
+
+.all {
+    display: flex;
+    align-items: center;
+}
+
+.prime {
+    display: flex;
+}
+
+.text-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.back-image img {
+    width: 100vw;
+    height: 80vh;
+    padding: 0px 10px;
+    position: relative;
+}
+
+.arrow-container {
+
+    display: flex;
+    justify-content: space-between;
+    margin: -300px 20.5px;
+    top: 40%;
+
+}
+
+.card-1 {
+    background-color: rgb(255, 255, 255);
+    width: 25vw;
+    height: 50vh;
+    position: absolute;
+    margin-top: 14.4rem;
+    margin-left: 2rem;
+}
+
+.cardtext1 h1 {
+    padding: 1rem;
+    font-size: medium;
+}
+
+.card-1img {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(175px, 2fr));
+    overflow: hidden;
+
+}
+
+.card-1 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.card-2 {
+    position: absolute;
+    margin-left: 27rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.card-3 {
+    position: absolute;
+    margin-left: 52rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.side {
+    position: absolute;
+    background-color: white;
+    width: 18.3vw;
+    height: 17vh;
+    margin-left: 77rem;
+    margin-top: 14.4rem;
+
+}
+
+.minside {
+    background-color: #fed813;
+    height: 2.2rem;
+    width: 16rem;
+    border-radius: 0.7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1rem;
+}
+
+.bottom-image img {
+    width: 17rem;
+    height: 2 rem;
+    margin-top: 2rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.card-3img img {
+    height: 20rem;
+    width: 23rem;
+    padding: 1rem;
+}

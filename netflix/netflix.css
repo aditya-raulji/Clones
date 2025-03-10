@@ -1,0 +1,226 @@
+* {
+    font-family:"Roboto", sans-serif;
+}
+body{
+    background-color: black;
+}
+
+.photo {
+    width: 100%;
+    position: absolute;
+}
+
+.logo {
+    position: absolute;
+    height: 3%;
+    width: 5%;
+    margin-left: 4%;
+    margin-top: 1.5%;
+}
+
+.text {
+    position: absolute;
+    color: rgb(133, 101, 101);
+    margin-left: 10%;
+    margin-top: 1.5%;
+}
+
+.side {
+    position: absolute;
+    margin-left: 1142px;
+    margin-top: 2%;
+}
+
+.side img {
+    width: 15px;
+}
+
+.ll {
+    position: absolute;
+    height: 4%;
+    margin-top: 400px;
+    margin-left: 61px;
+}
+
+.sh {
+    position: absolute;
+    color: white;
+    margin-top: 405px;
+    margin-left: 85px;
+}
+
+.ma {
+    position: absolute;
+    color: white;
+    font-size: 678%;
+    margin-top: 422px;
+    margin-left:55px ;
+}
+.pl{
+    position: absolute;
+    display: flex;
+    top: 550px;
+    border: 1px solid black;
+    background-color: white;
+    width: 73px;
+    border-radius: 2px;
+    margin-left: 60px;
+}
+.pl img{
+    height: 15px;
+    margin: 10px 10px;
+}
+.pl p{
+    margin: 7px -4px;
+}
+.mo{
+    position: absolute;
+    display: flex;
+    background-color:grey;
+    opacity: 0.6;
+    top: 551px;
+    left: 150px;
+    width: 110px;
+}
+.mo img{
+    height: 15px;
+    margin: 9px 10px;
+}
+.mo p{
+    margin: 8px -4px;
+    color: white;
+}
+.plu{
+    position: absolute;
+    left: 98%;
+    bottom:-8%;
+}
+.see{
+    position: absolute;
+    color: white;
+    bottom:-8%;
+    left:70px;
+}
+.arr{
+    position: absolute;
+    bottom:-9% ;
+    left: 145px;
+}
+.second{
+    position: relative;
+    top: 680px;
+    left: 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.second img{
+    height: 100px;
+    width: 200px;
+}
+.top{
+    position: absolute;
+    color: white;
+    top: 820px;
+    left: 70px;
+}
+.third{
+    position: absolute;
+    top: 880px;
+    left: 50px;
+}
+.third img{
+    width:114px ;
+}
+.tre{
+    position: absolute;
+    color: white;
+    bottom:-80%;
+    left:70px;
+}
+.arr{
+    position: absolute;
+    bottom:-9% ;
+    left: 145px;
+}
+.four{
+    position: absolute;
+    top: 1130px;
+    left: 2.5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100vw;
+}
+.four img{
+    height: 100px;
+    width: 200px;
+}
+.sci{
+    position: absolute;
+    color: white;
+    bottom:-110%;
+    left:70px;
+}
+.five{
+    position: absolute;
+    top: 1320px;
+    left: 2.5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100vw;
+}
+.five img{
+    height: 100px;
+    width: 200px;
+}
+.six{
+    position: absolute;
+    top: 1550px;
+    left: 20%;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    width: 140px;
+    opacity: .5;
+}
+.a{
+    position: absolute;
+    color: white;
+    top: 1600px;
+    left: 20%;
+    opacity: .5;
+}
+.b{
+    position: absolute;
+    left: 20%;
+    top: 1750px;
+    border: 1px solid white;
+    color: white;
+    opacity: .5;
+    width: 110px;
+    text-align: center;
+}
+.c{
+    position: absolute;
+    color: white;
+    top: 1600px;
+    left: 40%;
+    opacity: .5;
+}
+.d{
+    position: absolute;
+    color: white;
+    top: 1600px;
+    left: 60%;
+    opacity: .5;
+}
+.e{
+    position: absolute;
+    color: white;
+    top: 1600px;
+    left: 80%;
+    opacity: .5;
+}
+
